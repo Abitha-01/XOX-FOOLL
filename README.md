@@ -1,4 +1,4 @@
-# XOX FOOL 🎯
+# XOX FAIL 🎯
 
 
 ## Basic Details
