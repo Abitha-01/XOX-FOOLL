@@ -1,3 +1,6 @@
+<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+
+
 # XOX FAIL 🎯
 
 
@@ -36,6 +39,7 @@ Run on live server.
 
 
 ![Screenshot 2024-11-01 235136](https://github.com/user-attachments/assets/2bcd0039-b048-42e6-8fcd-84d752bd81ca)
+
 
 
 
