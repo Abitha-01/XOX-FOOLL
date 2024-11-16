@@ -24,6 +24,12 @@ This is a funny tic-tac-toe game where a player cannot win. It can be played bot
 # Run
 Run on live server.
 
+
+# HOSTED LINK
+
+ https://abitha-01.github.io/XOX-FOOLL/
+
+ 
 # WORKING VIDEOS
 
 https://github.com/user-attachments/assets/25b274d6-bbb4-49c4-b9b2-2a8f2f0419c5
